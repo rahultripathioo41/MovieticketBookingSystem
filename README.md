@@ -104,16 +104,6 @@ This is a Python-based console application that allows users to book movie ticke
 
 ---
 
-## Screenshots (Optional)
-Include screenshots of the console outputs showing login, booking, and admin functionalities.
-
----
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
 ## Contributions
 Feel free to fork the repository, raise issues, and submit pull requests. Suggestions and contributions are always welcome!
 
